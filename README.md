@@ -1,15 +1,5 @@
 ---
 
-## 📌 Features
-
-* Reads and displays **Title, Artist, Album, Year, Comment, and Genre** from MP3 files
-* Supports **ID3v1 and basic ID3v2 tags**
-* Validates MP3 file format before processing
-* User-friendly command line interface
-* Error handling for invalid or corrupted files
-
----
-
 ## 🛠️ Technologies Used
 
 * **Language:** C
